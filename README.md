@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zwampy
 - 👀 I’m interested in stuff
-- 🌱 I’m currently learning python
-- 📫 How to reach me you don't 
+- 🌱 I’m currently learning java
+- 📫 How to reach me  ~ ich3n3y@gmail.com
 
 <!---
 Zwampyh/Zwampyh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
